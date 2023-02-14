@@ -33,3 +33,11 @@ what you have done.
 - add code to the file
 - use git status to see where you are in at the process
 - add,commit, push code to GitHub.
+
+### Branching Vocab
+- branch - an alternative timeline where a developer can code safely
+- main - the branch that is the source of truth, only working code allowed
+- checkout - command to navigate between branches
+- checkout -b - creates a new branch that doesnt currently exist
+- deleteing a branch - has to be deleted on local and on Github
+
