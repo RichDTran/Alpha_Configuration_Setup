@@ -41,3 +41,8 @@ what you have done.
 - checkout -b - creates a new branch that doesnt currently exist
 - deleteing a branch - has to be deleted on local and on Github
 
+### Notes About Branching
+- Branching protects your code from errors that can cause your app to be down in production
+- Branching allows multiple people to work on code at the same time
+- Branching is a best practice for all developers on all porjects
+- The main branch is the source of truth and should only ever have working code
