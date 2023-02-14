@@ -17,3 +17,10 @@
 -local - your personal computer
 -commit - adding a tracker number and message to your version
 -diff - the difference between states of your local and Github repository
+
+### Reasons!
+
+-Github is a website online to store and create code connecting from your local computer
+to the internet.
+-This is a great tool that is used to see your work and so employers and others can also see
+what you have done.
