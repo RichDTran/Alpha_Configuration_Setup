@@ -35,6 +35,8 @@ what you have done.
 - add,commit, push code to GitHub.
 
 ### Branching Vocab
+branching-commands
+
 - branch - an alternative timeline where a developer can code safely
 - main - the branch that is the source of truth, only working code allowed
 - checkout - command to navigate between branches
@@ -42,7 +44,17 @@ what you have done.
 - deleteing a branch - has to be deleted on local and on Github
 
 ### Notes About Branching
+branching-commands
+
 - Branching protects your code from errors that can cause your app to be down in production
 - Branching allows multiple people to work on code at the same time
 - Branching is a best practice for all developers on all porjects
 - The main branch is the source of truth and should only ever have working code
+ branching-commands
+
+ Branching Commands
+
+- $ `git checkout -b branch-name` - creates a new branch that doesnt exist
+- $ `git branch` - lists all the current branches on your local
+- $ `git branch` -d branch-name` - deletes a branch when you are done
+- $ `git checkout main` - navigates back to the main branch
